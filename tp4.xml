@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE  master  SYSTEM  "tp4.dtd"  >
+
+<master>
+	&unites;
+	&intervenants;
+	&parcours;
+</master>

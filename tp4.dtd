@@ -1,0 +1,67 @@
+<!ENTITY % tps "temps (heure) #IMPLIED" >
+<!ENTITY % id "id ID #REQUIRED" >
+<!ENTITY % idref "idref IDREF #REQUIRED" >
+
+<!ENTITY intervenants SYSTEM "intervenants.xml" >
+<!ENTITY unites SYSTEM "unites.xml" >
+<!ENTITY parcours SYSTEM "parcours.xml" >
+
+
+<!ELEMENT master (unites,intervenants, cursus)>
+
+<!ELEMENT nom (#PCDATA)>
+
+<!ELEMENT unites (unite+)>
+<!ELEMENT unite (nom, credits, resume, plan?, localisation, ref-intervenant*)>
+<!ATTLIST unite %id;>
+
+<!ELEMENT credits (#PCDATA) >
+
+<!ELEMENT resume (#PCDATA|ul|p)* >
+<!ELEMENT p (#PCDATA|ul|b)* >
+<!ELEMENT ul (li)+>
+<!ELEMENT li (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+
+<!ELEMENT plan (cours?, td?, tp?)?>
+<!ELEMENT cours (#PCDATA)>
+<!ATTLIST cours %tps;>
+<!ELEMENT td (#PCDATA)>
+<!ATTLIST td %tps;>
+<!ELEMENT tp (#PCDATA)>
+<!ATTLIST tp %tps;>
+
+<!ELEMENT localisation (lieu+)>
+<!ELEMENT lieu (#PCDATA)>
+
+<!ELEMENT ref-intervenant EMPTY>
+<!ATTLIST ref-intervenant %idref;>
+
+<!ELEMENT intervenants (intervenant+)>
+<!ELEMENT intervenant (nom, prénom, mail?, site?)>
+<!ATTLIST intervenant %id;>
+
+<!ELEMENT cursus (parcours+)>
+
+<!ELEMENT parcours (nom, resume, debouches, ref-responsable*, semestre*) >
+<!ATTLIST parcours %id;>
+
+<!ELEMENT semestre (numero, obligatoires?, bonus?, optionnelles?)>
+<!ELEMENT numero (#PCDATA) >
+<!ELEMENT obligatoires (ref-unite+) >
+<!ELEMENT bonus (ref-unite+) >
+<!ELEMENT optionnelles (ref-unite+) >
+
+<!ELEMENT ref-unite EMPTY>
+<!ATTLIST ref-unite %idref;>
+
+
+<!ELEMENT debouches (debouche*)>
+<!ELEMENT debouche (#PCDATA)>
+
+<!ELEMENT ref-responsable EMPTY>
+<!ATTLIST ref-responsable %idref;>
+
+<!ELEMENT prénom (#PCDATA)>
+<!ELEMENT mail (#PCDATA)>
+<!ELEMENT site (#PCDATA)>

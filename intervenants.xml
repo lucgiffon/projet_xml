@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<intervenants>
+	<intervenant id="IN616">
+		<nom>Agopian</nom>
+		<prénom>Roland</prénom>
+		<mail>roland.agopian@univ-amu.fr</mail>
+		<site>agopian-roland.site.com</site>
+	</intervenant>
+	<intervenant id="IN9941">
+		<nom>Bechet</nom>
+		<prénom>Frederic</prénom>
+		<mail>frederic.bechet@univ-amu.fr</mail>
+		<site>bechet-frederic.site.com</site>
+	</intervenant>
+	<intervenant id="IN1021">
+		<nom>Bertolissi</nom>
+		<prénom>Clara</prénom>
+		<mail>clara.bertolissi@univ-amu.fr</mail>
+		<site>bertolissi-clara.site.com</site>
+	</intervenant>
+	<intervenant id="IN12544">
+		<nom>Boucelma</nom>
+		<prénom>Omar</prénom>
+		<mail>omar.boucelma@univ-amu.fr</mail>
+		<site>boucelma-omar.site.com</site>
+	</intervenant>
+	<intervenant id="IN14758">
+		<nom>Broche</nom>
+		<prénom>Martine</prénom>
+		<mail>martine.broche@univ-amu.fr</mail>
+		<site>broche-martine.site.com</site>
+	</intervenant>
+	<intervenant id="IN7001">
+		<nom>Creignou</nom>
+		<prénom>Nadia</prénom>
+		<mail>nadia.creignou@univ-amu.fr</mail>
+		<site>creignou-nadia.site.com</site>
+	</intervenant>
+	<intervenant id="IN12316">
+		<nom>Demongodin</nom>
+		<prénom>Isabel</prénom>
+		<mail>isabel.demongodin@univ-amu.fr</mail>
+		<site>demongodin-isabel.site.com</site>
+	</intervenant>
+	<intervenant id="IN8615">
+		<nom>Estellon</nom>
+		<prénom>Bertrand</prénom>
+		<mail>bertrand.estellon@univ-amu.fr</mail>
+		<site>estellon-bertrand.site.com</site>
+	</intervenant>
+	<intervenant id="IN10388">
+		<nom>Favre</nom>
+		<prénom>Benoit</prénom>
+		<mail>benoit.favre@univ-amu.fr</mail>
+		<site>favre-benoit.site.com</site>
+	</intervenant>
+	<intervenant id="IN2563">
+		<nom>Godard</nom>
+		<prénom>Emmanuel</prénom>
+		<mail>emmanuel.godard@univ-amu.fr</mail>
+		<site>godard-emmanuel.site.com</site>
+	</intervenant>
+	<intervenant id="IN12068">
+		<nom>Habet</nom>
+		<prénom>Djamal</prénom>
+		<mail>djamal.habet@univ-amu.fr</mail>
+		<site>habet-djamal.site.com</site>
+	</intervenant>
+	<intervenant id="IN8007">
+		<nom>Jakubiec</nom>
+		<prénom>Line</prénom>
+		<mail>line.jakubiec@univ-amu.fr</mail>
+		<site>jakubiec-line.site.com</site>
+	</intervenant>
+	<intervenant id="IN6213">
+		<nom>Labourel</nom>
+		<prénom>Arnaud</prénom>
+		<mail>arnaud.labourel@univ-amu.fr</mail>
+		<site>labourel-arnaud.site.com</site>
+	</intervenant>
+	<intervenant id="IN7680">
+		<nom>Lai</nom>
+		<prénom>Claude</prénom>
+		<mail>claude.lai@univ-amu.fr</mail>
+		<site>lai-claude.site.com</site>
+	</intervenant>
+	<intervenant id="IN3524">
+		<nom>Lugiez</nom>
+		<prénom>Denis</prénom>
+		<mail>denis.lugiez@univ-amu.fr</mail>
+		<site>lugiez-denis.site.com</site>
+	</intervenant>
+	<intervenant id="IN18">
+		<nom>Massat</nom>
+		<prénom>Jean-luc</prénom>
+		<mail>jean-luc.massat@univ-amu.fr</mail>
+		<site>massat-jean-luc.site.com</site>
+	</intervenant>
+	<intervenant id="IN9224">
+		<nom>Morin</nom>
+		<prénom>Remi</prénom>
+		<mail>remi.morin@univ-amu.fr</mail>
+		<site>morin-remi.site.com</site>
+	</intervenant>
+	<intervenant id="IN7722">
+		<nom>Novelli</nom>
+		<prénom>Noel</prénom>
+		<mail>noel.novelli@univ-amu.fr</mail>
+		<site>novelli-noel.site.com</site>
+	</intervenant>
+	<intervenant id="IN13794">
+		<nom>Olive</nom>
+		<prénom>Frederic</prénom>
+		<mail>frederic.olive@univ-amu.fr</mail>
+		<site>olive-frederic.site.com</site>
+	</intervenant>
+	<intervenant id="IN12632">
+		<nom>Olivetti</nom>
+		<prénom>Nicola</prénom>
+		<mail>nicola.olivetti@univ-amu.fr</mail>
+		<site>olivetti-nicola.site.com</site>
+	</intervenant>
+	<intervenant id="IN16209">
+		<nom>Ralaivola</nom>
+		<prénom>Hery-liva</prénom>
+		<mail>hery-liva.ralaivola@univ-amu.fr</mail>
+		<site>ralaivola-hery-liva.site.com</site>
+	</intervenant>
+	<intervenant id="IN12969">
+		<nom>Rene</nom>
+		<prénom>Lydie</prénom>
+		<mail>lydie.rene@univ-amu.fr</mail>
+		<site>rene-lydie.site.com</site>
+	</intervenant>
+	<intervenant id="IN4595">
+		<nom>Reynier</nom>
+		<prénom>Pierre-alain</prénom>
+		<mail>pierre-alain.reynier@univ-amu.fr</mail>
+		<site>reynier-pierre-alain.site.com</site>
+	</intervenant>
+	<intervenant id="IN26">
+		<nom>Sabatier</nom>
+		<prénom>Claude</prénom>
+		<mail>claude.sabatier@univ-amu.fr</mail>
+		<site>sabatier-claude.site.com</site>
+	</intervenant>
+	<intervenant id="IN16625">
+		<nom>Sellami</nom>
+		<prénom>Sana</prénom>
+		<mail>sana.sellami@univ-amu.fr</mail>
+		<site>sellami-sana.site.com</site>
+	</intervenant>
+	<intervenant id="IN8086">
+		<nom>Vaxes</nom>
+		<prénom>Yann</prénom>
+		<mail>yann.vaxes@univ-amu.fr</mail>
+		<site>vaxes-yann.site.com</site>
+	</intervenant>
+	<intervenant id="IN99999">
+		<nom>Michel</nom>
+		<prénom>Stephane</prénom>
+	</intervenant>
+</intervenants>

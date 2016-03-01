@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<cursus>
+	<parcours id="M1">
+		<nom>Première année de tronc commun</nom>
+		<resume>
+			<p>L'objectif de cette première année est de donner les bases indispensables permettant, en deuxième année, de choisir une spécialisation dans un domaine précis. Sur les 60 crédits de cette première année, 15 crédits correspondent à des enseignements optionnels. Ces options permettent de construire un parcours adapté. Un choix entre stage ou projet encadré est également proposé au semestre de printemps.</p>
+		</resume>
+		<debouches></debouches>
+		<ref-responsable idref="IN9224" />
+		<semestre>
+			<numero>1</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINAU1" />
+				<ref-unite idref="ENSINAU2" />
+				<ref-unite idref="ENSINAU3" />
+				<ref-unite idref="ENSINAU4" />
+				<ref-unite idref="ENSINAU12" />
+			</obligatoires>
+			<optionnelles>
+				<ref-unite idref="ENSINAU6" />
+				<ref-unite idref="ENSINAU7" />
+				<ref-unite idref="ENSINAU8" />
+				<ref-unite idref="ENSINAU9" />
+				<ref-unite idref="ENSINAU10" />
+				<ref-unite idref="ENSINAU13" />
+			</optionnelles>
+		</semestre>
+		<semestre>
+			<numero>2</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINBU1" />
+				<ref-unite idref="ENSINBU2" />
+				<ref-unite idref="ENSINBU4" />
+				<ref-unite idref="ENSINBU5" />
+				<ref-unite idref="ENSINBU15" />
+			</obligatoires>
+			<optionnelles>
+				<ref-unite idref="ENSINBU6" />
+				<ref-unite idref="ENSINBU7" />
+				<ref-unite idref="ENSINBU8" />
+				<ref-unite idref="ENSINBU9" />
+				<ref-unite idref="ENSINBU10" />
+				<ref-unite idref="ENSINBU11" />
+				<ref-unite idref="ENSINBU12" />
+				<ref-unite idref="ENSINBU13" />
+				<ref-unite idref="ENSINBU16" />
+			</optionnelles>
+		</semestre>
+	</parcours>
+	<parcours id="FSI">
+		<nom>Fiabilité et sécurité informatique (FSI)</nom>
+		<resume>
+			<p>La formation donne les principes et techniques liés à la conception de systèmes informatiques surs dans un environnement ouvert et hétérogène. Elle forme les étudiants aux principes et méthodes de développement modernes qui reposent sur des outils de prototypage, de test et de suivi de logiciels, avec des méthodologies normalisées. Elle apporte des compétences fortes en sécurité informatique dans les domaines liés à l'échange d'information (Web-services, protocoles de communication et cryptographiques,..) et à la communication entre systèmes (réseaux hétérogènes et applications embarquées ou distribuées).</p>
+		</resume>
+		<debouches>
+			<debouche>Ingénieur études et développement</debouche>
+			<debouche>Responsable réseaux</debouche>
+			<debouche>Responsable systèmes et sécurité</debouche>
+			<debouche>Ingénieur qualité</debouche>
+			<debouche>Ingénieur études et développement</debouche>
+			<debouche>Architecte logiciel</debouche>
+			<debouche>Ingénieur en système d'information</debouche>
+			<debouche>Expert technique ou fonctionnel</debouche>
+		</debouches>
+		<ref-responsable idref="IN2563" />
+		<semestre>
+			<numero>3</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINCU27" />
+				<ref-unite idref="ENSINCU28" />
+				<ref-unite idref="ENSINCU29" />
+				<ref-unite idref="ENSINCU30" />
+				<ref-unite idref="ENSINCU31" />
+				<ref-unite idref="ENSINCU32" />
+				<ref-unite idref="ENSINCU33" />
+				<ref-unite idref="ENSINCU34" />
+				<ref-unite idref="ENSINCU35" />
+			</obligatoires>
+			<bonus>
+				<ref-unite idref="ENSINCU67" />	
+			</bonus>
+		</semestre>
+		<semestre>
+			<numero>4</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINDU3" />
+				<ref-unite idref="ENSINDU4" />
+			</obligatoires>
+		</semestre>
+	</parcours>
+	<parcours id="ISL">
+		<nom>Intégration de systèmes logiciels (ISL)</nom>
+		<resume>
+			<p>Le développement de l'Internet/Intranet et des applications associées a fait émerger de nouvelles normes pour la structuration des applications informatiques réparties. L'enjeu est de présenter des modèles (programmation par composants, par aspects, design pattern), des plateformes (JEE, .NET, Corba, etc.) et des outils (JAVA, SGBDOO, XML) qui offrent un cadre dans lequel les applications sont développées, validées et intégrées plus facilement.</p> <p>L'objectif de ce parcours est d'initier les étudiants à la conception et à la réalisation d'applications dans de tels cadres. La formation mettra plus particulièrement l'accent sur les notions d'architecture logicielle, de programmation par composants, de qualité et de fiabilité. Elle utilisera la plateforme Java Enterprise Edition pour concrétiser les concepts présentés.</p>
+		</resume>
+		<debouches>
+			<debouche>Ingénieur études et développement</debouche>
+			<debouche>Responsable réseaux</debouche>
+			<debouche>Responsable systèmes et sécurité</debouche>
+			<debouche>Ingénieur qualité</debouche>
+			<debouche>Ingénieur études et développement</debouche>
+			<debouche>Architecte logiciel</debouche>
+			<debouche>Ingénieur en système d'information</debouche>
+			<debouche>Expert technique ou fonctionnel</debouche>
+		</debouches>
+		<ref-responsable idref="IN18" />
+		<semestre>
+			<numero>3</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINCU27" />
+				<ref-unite idref="ENSINCU28" />
+				<ref-unite idref="ENSINCU29" />
+				<ref-unite idref="ENSINCU30" />
+				<ref-unite idref="ENSINCU31" />
+				<ref-unite idref="ENSINCU36" />
+				<ref-unite idref="ENSINCU37" />
+				<ref-unite idref="ENSINCU38" />
+				<ref-unite idref="ENSINCU39" />
+				<ref-unite idref="ENSINCU40" />
+			</obligatoires>
+			<bonus>
+				<ref-unite idref="ENSINCU67" />	
+			</bonus>
+		</semestre>
+		<semestre>
+			<numero>4</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINDU3" />
+				<ref-unite idref="ENSINDU4" />
+			</obligatoires>
+		</semestre>
+	</parcours>
+	<parcours id="GL">
+		<nom>Génie logiciel (GL)</nom>
+		<resume>
+			<p>La production d'un logiciel est une tâche très complexe mettant en oeuvre plusieurs ressources, notamment humaines, matériels et technologiques. La spécialité «&#160;Génie logiciel&#160;» a pour objectif d'apporter aux étudiants les compétences approfondies requises pour pouvoir intervenir dans toutes les phases de la production logiciel.</p>
+		</resume>
+		<debouches>
+			<debouche>Ingénieur informaticien</debouche>
+			<debouche>Ingénieur d&#8217;études et de développement</debouche>
+			<debouche>Ingénieur qualité logicielle</debouche>
+			<debouche>Architecte JEE</debouche>
+			<debouche>Architecte d&#8217;application</debouche>
+			<debouche>Développeur et concepteur d&#8217;application</debouche>
+			<debouche>Ingénieur développeur Web</debouche>
+			<debouche>Chef de projet</debouche>
+			<debouche>Consultant</debouche>
+		</debouches>
+		<ref-responsable idref="IN12068" />
+		<semestre>
+			<numero>3</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINCU41" />
+				<ref-unite idref="ENSINCU42" />
+				<ref-unite idref="ENSINCU43" />
+				<ref-unite idref="ENSINCU44" />
+				<ref-unite idref="ENSINCU45" />
+				<ref-unite idref="ENSINCU46" />
+				<ref-unite idref="ENSINCU47" />
+				<ref-unite idref="ENSINCU27" />
+				<ref-unite idref="ENSINCU28" />
+			</obligatoires>
+		</semestre>
+		<semestre>
+			<numero>4</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINDU3" />
+				<ref-unite idref="ENSINDU4" />
+			</obligatoires>
+		</semestre>
+	</parcours>
+	<parcours id="FED">
+		<nom>Fouille et entrepôts de données (FED)</nom>
+		<resume>
+			<p>Ce parcours permet aux étudiants d&#8217;approfondir les connaissances qu'ils doivent maîtriser pour appréhender le cycle de vie complet des bases et entrepôts de données&#160;: de leur conception à leur administration, en passant par les architectures logicielles des systèmes de bases de données, et les divers formats d'échanges à travers le web. Une attention particulière est portée à l'étude des techniques de fouille et d'extraction de connaissances à partir de données. La Fouille de Données ou l'Extraction de Connaissances à partir de Bases de données désigne un domaine de compétences dont l'objectif est de rechercher et découvrir des informations, nouvelles et utiles, dans des données le plus souvent volumineuses et hétérogènes. La fouille de données rassemble des professionnels de plusieurs disciplines&#160;: des spécialistes en bases et entrepôts de données, en analyse des données, ayant aussi des connaissances de bases en recherche opérationnelle.</p>
+		</resume>
+		<debouches>
+			<debouche>Administrateur de bases de données ou d&#8217;entrepôts de données</debouche>
+			<debouche>Extraction, transformation et chargement des données</debouche>
+			<debouche>Gestion, exploitation et optimisation de bases et entrepôts de données</debouche>
+			<debouche>Études et développement informatique</debouche>
+			<debouche>Conseil et maîtrise d&#8217;ouvrage en système d&#8217;information</debouche>
+			<debouche>Expertise et support technique en système d&#8217;information</debouche>
+			<debouche>Administration de systèmes d'information</debouche>
+		</debouches>
+		<ref-responsable idref="IN7722" />
+		<semestre>
+			<numero>3</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINCU27" />
+				<ref-unite idref="ENSINCU28" />
+				<ref-unite idref="ENSINCU30" />
+				<ref-unite idref="ENSINCU40" />
+				<ref-unite idref="ENSINCU48" />
+				<ref-unite idref="ENSINCU49" />
+				<ref-unite idref="ENSINCU50" />
+				<ref-unite idref="ENSINCU53" />
+				<ref-unite idref="ENSINCU72" />
+				<ref-unite idref="ENSINCU73" />
+			</obligatoires>
+			<bonus>
+				<ref-unite idref="ENSINCU67" />
+			</bonus>
+		</semestre>
+		<semestre>
+			<numero>4</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINDU3" />
+				<ref-unite idref="ENSINDU4" />
+			</obligatoires>
+		</semestre>
+	</parcours>
+	<parcours id="RO">
+		<nom>Recherche opérationnelle (RO)</nom>
+		<resume>
+			<p>La recherche opérationnelle consiste à utiliser des méthodes et des modèles pour résoudre des problèmes complexes d'organisation, de planification, de gestion de ressources, ou d'optimisation issus de nombreux secteurs d'activités comme le transport, l'industrie, les télécommunications, la finance... La résolution de ces problèmes constitue un enjeu économique et industriel important. La conception d'applications décisionnelles requiert une phase de spécification et d'extraction de données lors de laquelle les compétences acquises par les étudiants de la spécialité ID dans le domaine de la fouille et des entrepôts de données sera particulièrement utile. Elle nécessite également des connaissances fondamentales dans le domaine de la modélisation et de l'optimisation et une très bonne maîtrise des outils nécessaires pour concevoir et développer des applications décisionnelles (langages de modélisation, solveurs, structures de données, algorithmes&#8230;).</p>
+		</resume>
+		<debouches>
+			<debouche>Administrateur de bases de données ou d&#8217;entrepôts de données</debouche>
+			<debouche>Extraction, transformation et chargement des données</debouche>
+			<debouche>Gestion, exploitation et optimisation de bases et entrepôts de données</debouche>
+			<debouche>Études et développement informatique</debouche>
+			<debouche>Conseil et maîtrise d&#8217;ouvrage en système d&#8217;information</debouche>
+			<debouche>Expertise et support technique en système d&#8217;information</debouche>
+			<debouche>Administration de systèmes d'information</debouche>
+		</debouches>
+		<ref-responsable idref="IN8086" />
+		<semestre>
+			<numero>3</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINCU27" />
+				<ref-unite idref="ENSINCU28" />
+				<ref-unite idref="ENSINCU30" />
+				<ref-unite idref="ENSINCU40" />
+				<ref-unite idref="ENSINCU48" />
+				<ref-unite idref="ENSINCU49" />
+				<ref-unite idref="ENSINCU50" />
+				<ref-unite idref="ENSINCU53" />
+				<ref-unite idref="ENSINCU72" />
+				<ref-unite idref="ENSINCU54" />
+			</obligatoires>
+			<bonus>
+				<ref-unite idref="ENSINCU67" />
+			</bonus>
+		</semestre>
+		<semestre>
+			<numero>4</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINDU3" />
+				<ref-unite idref="ENSINDU4" />
+			</obligatoires>
+		</semestre>
+	</parcours>
+	<parcours id="IF">
+		<nom>Informatique fondamentale (IF)</nom>
+		<resume>
+			<p>L'objectif de la spécialité Informatique Fondamentale est de donner des connaissances solides dans le domaine des fondements de l'informatique. Il s'agit d'acquérir des connaissances sur les concepts et les méthodes dans l es thèmes couverts par le Laboratoire d'Informatique Fondamentale.</p>
+		</resume>
+		<debouches>
+			<debouche>Recherche et Développement</debouche>
+			<debouche>Enseignant-chercheur</debouche>
+		</debouches>
+		<ref-responsable idref="IN16209" />
+		<ref-responsable idref="IN4595" />
+		<semestre>
+			<numero>3</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINCU1" />
+				<ref-unite idref="ENSINCU2" />
+				<ref-unite idref="ENSINCU3" />
+			</obligatoires>
+			<optionnelles>				
+				<ref-unite idref="ENSINCU4" />
+				<ref-unite idref="ENSINCU5" />
+				<ref-unite idref="ENSINCU6" />
+				<ref-unite idref="ENSINCU7" />
+				<ref-unite idref="ENSINCU8" />
+				<ref-unite idref="ENSINCU9" />
+				<ref-unite idref="ENSINCU10" />
+				<ref-unite idref="ENSINCU11" />
+				<ref-unite idref="ENSINCU12" />
+				<ref-unite idref="ENSINCU13" />
+				<ref-unite idref="ENSINCU14" />
+				<ref-unite idref="ENSINCU15" />
+				<ref-unite idref="ENSINCU16" />
+				<ref-unite idref="ENSINCU17" />
+				<ref-unite idref="ENSINCU18" />
+				<ref-unite idref="ENSINCU19" />
+				<ref-unite idref="ENSINCU20" />
+				<ref-unite idref="ENSINCU21" />
+				<ref-unite idref="ENSINCU22" />
+				<ref-unite idref="ENSINCU23" />
+				<ref-unite idref="ENSINCU24" />
+				<ref-unite idref="ENSINCU25" />
+				<ref-unite idref="ENSINCU26" />
+			</optionnelles>
+		</semestre>
+		<semestre>
+			<numero>4</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINDU1" />
+				<ref-unite idref="ENSINDU2" />
+			</obligatoires>
+		</semestre>
+	</parcours>
+	<parcours id="RIM">
+		<nom>Recherche d'informations multimédia (RIM)</nom>
+		<resume>
+			<p>L'objectif de la spécialité RIM est de former des spécialistes du traitement et de la recherche de contenus multimédias. Du point de vue des débouchés professionnels, cette formation vise à produire des informaticiens spécialistes du traitement des données multimédia et de la recherche d'information qui pourront s'intégrer dans des entreprises innovantes centrées autour des domaines du multimédia et de l'internet.</p>
+		</resume>
+		<debouches>
+			<debouche>Spécialiste en traitement de données multimédia</debouche>
+		</debouches>
+		<ref-responsable idref="IN9941" />
+		<semestre>
+			<numero>3</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINCU56" />
+				<ref-unite idref="ENSINCU58" />
+				<ref-unite idref="ENSINCU59" />
+				<ref-unite idref="ENSINCU66" />
+				<ref-unite idref="ENSINCU69" />
+				<ref-unite idref="ENSINCU27" />
+				<ref-unite idref="ENSINCU28" />
+			</obligatoires>
+			<bonus>
+				<ref-unite idref="ENSINCU67" />
+			</bonus>
+			<optionnelles>				
+				<ref-unite idref="ENSINCU4" />
+				<ref-unite idref="ENSINCU5" />
+				<ref-unite idref="ENSINCU6" />
+				<ref-unite idref="ENSINCU7" />
+				<ref-unite idref="ENSINCU19" />
+				<ref-unite idref="ENSINCU20" />
+				<ref-unite idref="ENSINCU21" />
+			</optionnelles>
+		</semestre>
+		<semestre>
+			<numero>4</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINDU3" />
+				<ref-unite idref="ENSINDU4" />
+			</obligatoires>
+		</semestre>
+	</parcours>
+	<parcours id="SIR">
+		<nom>Systèmes d'informations répartis (SIR)</nom>
+		<resume>
+			<p>Le programme vise la formation de spécialistes dans des métiers à forte valeur ajoutée au travers des compétences acquises dans trois domaines clés de l&#8217;informatique&#160;: les technologies avancées du Web (services web, multimédia, etc.), les nouveaux modes de développement du logiciel (Cloud, Mobile, etc.) et les processus métiers de l&#8217;entreprise.</p>
+		</resume>
+		<debouches>
+			<debouche>Architecte en Systèmes d&#8217;Information</debouche>
+			<debouche>Ingénieur Développement Logiciels</debouche>
+			<debouche>Ingénieur Intégration</debouche>
+			<debouche>Consultant ERP/BPM</debouche>
+			<debouche>Chef de projet</debouche>
+		</debouches>
+		<ref-responsable idref="IN12544" />
+		<semestre>
+			<numero>3</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINCU60" />
+				<ref-unite idref="ENSINCU64" />
+				<ref-unite idref="ENSINCU65" />
+				<ref-unite idref="ENSINCU68" />
+				<ref-unite idref="ENSINCU74" />
+				<ref-unite idref="ENSINCU75" />
+				<ref-unite idref="ENSISCU28" />
+				<ref-unite idref="ENSINCU27" />
+				<ref-unite idref="ENSINCU28" />
+			</obligatoires>
+		</semestre>
+		<semestre>
+			<numero>4</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINDU3" />
+				<ref-unite idref="ENSINDU4" />
+			</obligatoires>
+		</semestre>
+	</parcours>
+	<parcours id="INF">
+		<nom>Informatique (INF)</nom>
+		<resume>
+			<p>L&#8217;objectif est d&#8217;approfondir les connaissances de bases en Informatique sur l&#8217;intelligence artificielle, les systèmes d&#8217;information, conception et vérification des systèmes, informatique décisionnelle.</p>
+		</resume>
+		<debouches>
+			<debouche>systèmes d'information</debouche>
+			<debouche>intelligence artificielle</debouche>
+			<debouche>génie logiciel</debouche>
+			<debouche>imagerie numérique</debouche>
+		</debouches>
+		<ref-responsable idref="IN12632" />
+		<semestre>
+			<numero>3</numero>
+			<obligatoires>
+				<ref-unite idref="ENSISCU20" />
+			</obligatoires>
+			<optionnelles>
+				<ref-unite idref="ENSISCU1" />
+				<ref-unite idref="ENSISCU4" />
+				<ref-unite idref="ENSISCU5" />
+				<ref-unite idref="ENSISCU6" />
+				<ref-unite idref="ENSISCU7" />
+				<ref-unite idref="ENSISCU8" />
+				<ref-unite idref="ENSISCU55" />
+				<ref-unite idref="ENSISCU3" />
+				<ref-unite idref="ENSISCU2" />
+				<ref-unite idref="ENSISCU33" />
+				<ref-unite idref="ENSISCU34" />
+				<ref-unite idref="ENSISCU35" />
+				<ref-unite idref="ENSISCU36" />
+				<ref-unite idref="ENSISCU37" />
+				<ref-unite idref="ENSISCU38" />
+				<ref-unite idref="ENSISCU39" />
+				<ref-unite idref="ENSISCU40" />
+				<ref-unite idref="ENSISCU41" />
+				<ref-unite idref="ENSISCU42" />
+				<ref-unite idref="ENSISCU43" />
+				<ref-unite idref="ENSISCU44" />
+				<ref-unite idref="ENSISCU45" />
+				<ref-unite idref="ENSISCU46" />
+				<ref-unite idref="ENSISCU21" />
+				<ref-unite idref="ENSISCU22" />
+				<ref-unite idref="ENSISCU23" />
+				<ref-unite idref="ENSISCU24" />
+				<ref-unite idref="ENSISCU25" />
+				<ref-unite idref="ENSISCU26" />
+				<ref-unite idref="ENSISCU27" />
+				<ref-unite idref="ENSISCU28" />
+				<ref-unite idref="ENSISCU29" />
+				<ref-unite idref="ENSISCU30" />
+				<ref-unite idref="ENSISCU31" />
+				<ref-unite idref="ENSISCU32" />
+			</optionnelles>
+		</semestre>
+		<semestre>
+			<numero>4</numero>
+			<obligatoires>
+				<ref-unite idref="ENSINDU3" />
+				<ref-unite idref="ENSINDU4" />
+			</obligatoires>
+		</semestre>
+	</parcours>
+</cursus>
